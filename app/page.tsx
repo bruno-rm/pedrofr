@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <div className="md:flex min-h-[calc(100vh-2rem)] justify-center items-center gap-4 ">
+      <div className="md:flex  justify-center items-center gap-4 ">
         <div className=" flex-1  p-6">
           <Image
             className="mx-auto p-5 rounded-4xl"
